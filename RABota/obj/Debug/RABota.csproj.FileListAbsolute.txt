@@ -1,0 +1,10 @@
+d:\users\is12320\Desktop\RABota\RABota\RABota\bin\Debug\RABota.exe.config
+d:\users\is12320\Desktop\RABota\RABota\RABota\bin\Debug\RABota.exe
+d:\users\is12320\Desktop\RABota\RABota\RABota\bin\Debug\RABota.pdb
+d:\users\is12320\Desktop\RABota\RABota\RABota\obj\Debug\RABota.csprojAssemblyReference.cache
+d:\users\is12320\Desktop\RABota\RABota\RABota\obj\Debug\RABota.Form1.resources
+d:\users\is12320\Desktop\RABota\RABota\RABota\obj\Debug\RABota.Properties.Resources.resources
+d:\users\is12320\Desktop\RABota\RABota\RABota\obj\Debug\RABota.csproj.GenerateResource.cache
+d:\users\is12320\Desktop\RABota\RABota\RABota\obj\Debug\RABota.csproj.CoreCompileInputs.cache
+d:\users\is12320\Desktop\RABota\RABota\RABota\obj\Debug\RABota.exe
+d:\users\is12320\Desktop\RABota\RABota\RABota\obj\Debug\RABota.pdb
